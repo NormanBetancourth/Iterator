@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazColeccion.h
+iostream
+-
+InterfazIterator.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazIterator.h
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazIterator.h
+Persona.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Persona.h
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/ListIterator.h
+Lista.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Lista.h
+InterfazIterator.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazIterator.h
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Lista.h
+InterfazColeccion.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazColeccion.h
+Nodo.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Nodo.h
+ListIterator.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/ListIterator.h
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Nodo.h
+Persona.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Persona.h
+sstream
+-
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Persona.h
+iostream
+-
+sstream
+-
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Vector.h
+InterfazColeccion.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazColeccion.h
+InterfazIterator.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazIterator.h
+VectorIterador.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/VectorIterador.h
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/VectorIterador.h
+InterfazIterator.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/InterfazIterator.h
+Vector.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Vector.h
+
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/main.cpp
+iostream
+-
+Vector.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Vector.h
+VectorIterador.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/VectorIterador.h
+Lista.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/Lista.h
+ListIterator.h
+C:/Users/norma/source/repos/Progra II/Patrones de diseno/Patrones de Comportamiento/Iterator/ListIterator.h
+
